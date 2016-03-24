@@ -6,3 +6,20 @@ O repositório registra definitivamente as mudanças feitas sobre o meu WD. A SA é
 ----------------
 How can you use the staging area to make sure you have one commit per logical change?
 Ela permite você verificar antes o que será commitado, decidindo assim quais arquivos commitar para que se tenha um commit por mudança lógica.
+---------------
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches permitem trabalhar em alguma funcionalidade alternativa, ou testar alguma coisa antes de commitar no Branch master.
+-------------------------------
+How do the diagrams help you visualize the branch structure?
+Eles permitem visualizar de forma mais amigável os commits e seus pais.
+----------------------------------
+What is the result of merging two branches together? 
+Todas as mudanças feitas em ambos os branches estarão no branch final.
+Why do we represent it in the diagram the way we do?
+----------------------------------
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:
+Se for muito código, você vai economizar muito tempo ao realizar o merge automático
+
+Cons:
+Não dá sempre para prever os conflitos que irão ocorrer
