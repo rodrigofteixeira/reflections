@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 É criado um diretório .git oculto, com as configurações do repositório git. Precisamos dele para o git registrar as ocorrências no repositório.
+--------------
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+O repositório registra definitivamente as mudanças feitas sobre o meu WD. A SA é uma área intermediárea que permite decidir melhor que mudanças serão registradas.
+----------------
+How can you use the staging area to make sure you have one commit per logical change?
+Ela permite você verificar antes o que será commitado, decidindo assim quais arquivos commitar para que se tenha um commit por mudança lógica.
