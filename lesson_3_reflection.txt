@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- Para compartilhar o projeto com outros colaboradores ou leitores;
+- para pode acessá-lo de onde eu quiser;
+- para ter um backup de meus arquivos em um local que considero seguro
